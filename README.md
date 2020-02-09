@@ -1,6 +1,6 @@
 # appmaissaudev2
 
-A new Flutter project.
+App básico que retorna o imc e a classificação da pressão.
 
 ## Getting Started
 
